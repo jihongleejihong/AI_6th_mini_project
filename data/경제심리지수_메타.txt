@@ -1,0 +1,13 @@
+<통계표 메타자료>
+
+○ 통계표ID : DT_042Y001
+
+○ 통계표명 : 경제심리지수
+
+○ 출처 : KOSIS(「경제심리지수」, 한국은행), 2022.05.30 17:44
+
+○ 문의처 : 02-759-5678
+
+○ 통계표URL : https://kosis.kr/statHtml/statHtml.do?orgId=301&tblId=DT_042Y001&conn_path=I3
+              * KOSIS 개편 시 통계표 URL은 달라질 수 있음
+
