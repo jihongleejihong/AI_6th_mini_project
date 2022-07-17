@@ -10,4 +10,4 @@
 |5|퇴근시간 버스승차인원 예측|데이콘-제주도 버스의 효율적인 운행를 위해 퇴근시간 승차인원을 예측하는 모델 개발|팀|
 |6|직원의 미래 예측 - Employee Future Prediction|Kaggle-개별 직원의 퇴사 여부를 예측하는 모델 개발|팀|
 |7|구내식당 식수 인원 예측 AI 경진대회|데이콘-구내식당의 요일별 점심, 저녁식사를 먹는 인원을 예측|팀|
-|8|Face keypoints Detection얼굴 이미지 dataset으로 얼굴의 keypoints를 예측하는 모델|팀|
+|8|Face keypoints Detection|얼굴 이미지 dataset으로 얼굴의 keypoints를 예측하는 모델|팀|
