@@ -11,3 +11,5 @@
 |6|직원의 미래 예측 - Employee Future Prediction|Kaggle-개별 직원의 퇴사 여부를 예측하는 모델 개발|팀|
 |7|구내식당 식수 인원 예측 AI 경진대회|데이콘-구내식당의 요일별 점심, 저녁식사를 먹는 인원을 예측|팀|
 |8|Face keypoints Detection|얼굴 이미지 dataset으로 얼굴의 keypoints를 예측하는 모델|팀|
+|9|Instacart Market Basket Analysis|Kaggle- user들의 과거 구매 내역을 바탕으로 이후 구매할 상품 리스트 예측|팀|
+|10|Korean Movie Recommender system| user의 각 영화에 대한 평점을 바탕으로 출연한 주연 배우에 대한 평점을 계산하고 user 정보와 주연 배우에 대한 평점을 이용한 협업필터링을 통해 user에게 영화를 추천하는 알고리즘을 구현|팀|
